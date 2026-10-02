@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://public-release-codes-droid.github.io/Flash-Sender-Complete-Guide-Setup-Documentation/sitemap.xml
